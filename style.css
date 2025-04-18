@@ -150,12 +150,15 @@
         flex-direction: column;
     }
     .Divbtn{
-        width: 45%;
+        width: 100%;
     }
     .Divdate{
         width: 100%;
     }
     .addMenu{
         margin-left: 60%;
+    }
+    .globaldiv>div>button{
+        width: 10%;
     }
 }
